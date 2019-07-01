@@ -27,7 +27,7 @@ function Layout({ children }) {
           <footer className="bg-blue-700">
             <nav className="flex justify-between max-w-4xl mx-auto p-4 md:p-8 text-sm">
               <p className="text-white">
-                Created by{" "}
+                Initialy coded by{" "}
                 <a
                   href="https://taylorbryant.blog"
                   className="font-bold no-underline text-white"
@@ -38,7 +38,7 @@ function Layout({ children }) {
 
               <p>
                 <a
-                  href="https://github.com/taylorbryant/gatsby-starter-tailwind"
+                  href="https://github.com/app-generator/gatsby-starter-tailwind"
                   className="font-bold no-underline text-white"
                 >
                   GitHub
